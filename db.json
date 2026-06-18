@@ -1,0 +1,47 @@
+{
+  "contacts": [
+    {
+      "id": "V6rLDf4m-4c",
+      "firstName": "Константин",
+      "lastName": "Дидович",
+      "email": "didovych.k.v@gmail.com",
+      "phone": "0935678760"
+    },
+    {
+      "id": "Hl4CSMQ4e36g",
+      "firstName": "Костянтин111",
+      "lastName": "Дідович",
+      "email": "didovych.k.v@gmail.com",
+      "phone": "0935678760"
+    },
+    {
+      "id": "6eJHO2ZyRfM",
+      "firstName": "Костянтин333",
+      "lastName": "Дідовиjjjjjjj",
+      "email": "didovych.k.v@gmail.com",
+      "phone": "0935678760"
+    },
+    {
+      "id": "Sxxbnilm5XQ",
+      "firstName": "Костянтин",
+      "lastName": "Дідовичvvv",
+      "email": "didovych.k.v@gmail.com",
+      "phone": "0935678760"
+    },
+    {
+      "id": "TZkErMs-WTA",
+      "firstName": "Константин",
+      "lastName": "Дидович",
+      "email": "kdidovych@binaryanvil.com",
+      "phone": "0935678760"
+    },
+    {
+      "id": "9ezZ86tQhkw",
+      "firstName": "Kostiantyn",
+      "lastName": "Didovych",
+      "email": "kdidovych@binaryanvil.com",
+      "phone": "1111111111"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
